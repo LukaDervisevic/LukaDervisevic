@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lukadervisevic@gmail.com**
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/luka-dervisevic/</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/luka-dervisevic/</h3>
 <p align="left">
 </p>
 
