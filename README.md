@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luka</h1>
 <h3 align="center">IT student with specialization in software engineering</h3>
 
-- 🔭 I’m currently working on [DBeeAdmin](https://github.com/Abelova-Grupa/DBee-Admin)
+- 🔭 I’m currently working on [DBeeAdmin](https://github.com/Abelova-Grupa/Mercypher-Backend)
 
-- 🌱 I’m currently learning **Spring,React,JavaFx,Golang**
+- 🌱 I’m currently learning **Golang,Microservice Architecture**
 
 - 📫 How to reach me **lukadervisevic@gmail.com**
 
