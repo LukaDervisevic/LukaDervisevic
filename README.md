@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luka</h1>
 <h2 align="center">IT student with specialization in software engineering</h2>
 
-- 🔭 I’m currently working on [Mercypher Chat App](https://github.com/Abelova-Grupa/Mercypher-Backend)
+### 🔭 I’m currently working on [Mercypher Chat App](https://github.com/Abelova-Grupa/Mercypher-Backend)
 
-- 🌱 I’m currently learning **Golang, Microservice Architecture**
+### 🌱 I’m currently learning **Golang, Microservice Architecture**
 
-- 📫 How to reach me **lukadervisevic@gmail.com**
-- 👨🏻‍💻 [Linkedin Profile](https://linkedin.com/in/luka-dervisevic)
+### 📫 How to reach me  [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lukadervisevic@gmail.com)
+
+### 👨🏻‍💻 Connect with me on  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luka-dervisevic)
 
 <h2 align="center">Languages</h2>
 <p align="center">
