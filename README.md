@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Luka</h1>
-<h2 align="center">IT student with specialization in software engineering</h2>
+<!-- <h1 align="center">Hi 👋, I'm Luka</h1> -->
+<h1 align="center">IT student with specialization in software engineering</h2>
 
 ### 🔭 I’m currently working on [Mercypher Chat App](https://github.com/Abelova-Grupa/Mercypher-Backend)
 
-### 🌱 I’m currently learning **Golang, Microservice Architecture**
+### 🌱 I’m currently learning **Golang, Microservice Architecture, DevOps**
 
 ### 📫 How to reach me  [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lukadervisevic@gmail.com)
 
@@ -24,6 +24,7 @@
 <p align="center">
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="64" width="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="64" width="64"/>
   
 
 
@@ -34,14 +35,12 @@
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="64" width="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="64" width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="64" width="64"/>
 
   <!-- DevOps / Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="64" width="64"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="64" width="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height=80 width=80/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="64" width="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" height="64" width="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="64" width="64"/>
   
 </p>
 
